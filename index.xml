@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>GLL Hugo Site</title>
+    <link>https://CP3164094.github.io/</link>
+    <description>Recent content on GLL Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 01 Mar 2024 13:48:24 +0800</lastBuildDate>
+    <atom:link href="https://CP3164094.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyThirdPost</title>
+      <link>https://CP3164094.github.io/posts/mythirdpost/</link>
+      <pubDate>Fri, 01 Mar 2024 13:48:24 +0800</pubDate>
+      <guid>https://CP3164094.github.io/posts/mythirdpost/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>MySecondPost</title>
+      <link>https://CP3164094.github.io/posts/mysecondpost/</link>
+      <pubDate>Fri, 01 Mar 2024 13:45:26 +0800</pubDate>
+      <guid>https://CP3164094.github.io/posts/mysecondpost/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>https://CP3164094.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 29 Feb 2024 15:43:52 +0800</pubDate>
+      <guid>https://CP3164094.github.io/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+  </channel>
+</rss>
